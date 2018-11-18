@@ -2,11 +2,16 @@
 
 Meet Jobo A bot built on botpress
 
+[Admin back end](https://jobo.herokuapp.com)
 
-#Getting Started with this Template
+[Chat bot](https://jobo.herokuapp.com/lite/?m=platform-webchat&v=fullscreen) 
+Demo password: hello123
 
-Clone this repo
+# Getting Started with this Template
 
+
+# Clone this repo
+```git clone https://github.com/Mosh-Media/Jobo.git```
 
 # using npm
 ```npm install```
