@@ -1,6 +1,6 @@
 # Jobbo
 
-Meet Jobo A bot built on botpress
+Meet Jobo A bot built on botpress - goal is to create a recruiting and job platform, without the bias that comes with the recruiting process.
 
 [Admin back end](https://jobo.herokuapp.com)
 
