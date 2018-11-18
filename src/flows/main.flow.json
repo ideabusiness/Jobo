@@ -213,7 +213,7 @@
       "name": "intent-matching",
       "next": [
         {
-          "condition": "event.nlu.intent.is('play')",
+          "condition": "event.nlu.intent.is('Hi')",
           "node": "entry"
         },
         {
